@@ -44,7 +44,7 @@ The Scientific Calculator is a graphical calculator application built using Tkin
 
 ## Example Output 📊
 
-![Scientific Calculator Output](/)
+![Scientific Calculator Output](SC.png)
 
 ## Future Enhancements 🚀
 
